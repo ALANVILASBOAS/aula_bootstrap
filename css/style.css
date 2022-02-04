@@ -1,0 +1,66 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: DarkSalmon;
+}
+
+.quemsomos {
+    background-color: #FFF3EE;
+}
+
+.margin {
+    padding: 50px;
+}
+
+.imgtime {
+    width: 35%;
+    margin: auto;
+}
+
+.navbar-brand {
+    padding: 1%;
+}
+
+.textquem {
+    color: #2C2C2C;
+}
+
+.parceiros {
+    background-color: #FFB495;
+}
+
+.textservicos {
+    padding-bottom: 1em;
+}
+
+.servicos {
+    background-color: #FFD1BF;
+}
+
+.bg-footer {
+    background-color: rgb(182, 78, 43);
+    ;
+    color: rgb(255, 191, 139);
+    padding-top: 1em;
+    padding-bottom: 4em;
+}
+
+.float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: rgb(233, 141, 67);
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 2px 2px 3px #999;
+    opacity: 60%;
+}
+
+.my-float {
+    margin-top: 22px;
+}
